@@ -1,3 +1,4 @@
- body{
-    background-color: rgba(43, 255, 0, 0.986)
+ .cabecalho{
+    background-color: rgba(0, 0, 0, 0.986);
+    color:rgb(255, 255, 255);
  }
