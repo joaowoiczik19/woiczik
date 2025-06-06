@@ -27,7 +27,7 @@
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 50px 100px;
+       padding: 100px 100px;
        
 }
 
@@ -36,5 +36,5 @@
 }
 
 .sobreTitulo{
-         padding: 50px 100px;
+         padding: 50px 1px;
 }
